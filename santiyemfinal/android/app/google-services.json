@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829741548973",
+    "project_id": "santiyemfinal-13a77",
+    "storage_bucket": "santiyemfinal-13a77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829741548973:android:3f00b7ae4fe4881d6b8d24",
+        "android_client_info": {
+          "package_name": "com.example.santiyemfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtcqv0kyb9yAtUGwR5Y3qh-oLrw5W2Fwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
